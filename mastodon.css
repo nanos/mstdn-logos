@@ -74,7 +74,7 @@ a.status-card.compact .status-card__description {
     color: #71767b;
 }
 
-/* custom logs for articles */ 
+/* custom logos for articles */ 
 .status-card__content:has(a.status-card__title[href*="https://www.youtube.com"]) .status-card__host {
     background-image: url(https://innosflew.github.io/Logos/youtube.svg);
     background-repeat: no-repeat;
