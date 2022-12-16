@@ -83,6 +83,20 @@ a.status-card.compact .status-card__description {
     height: 13px;
 }
 
+a[href*="https://sussexbylines.co.uk"] .status-card__host {
+    background-image: url(https://innosflew.github.io/Logos/SussexBylines.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 33px;
+}
+a[href*="https://westenglandbylines.co.uk"] .status-card__host {
+    background-image: url(https://innosflew.github.io/Logos/WestEnglandBylines.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 45px;
+}
 a[href*="https://bylinesnetwork.co.uk"] .status-card__host {
     background-image: url(https://i.imgur.com/MqCz98y.png);
     background-repeat: no-repeat;
