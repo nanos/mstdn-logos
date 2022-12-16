@@ -153,6 +153,8 @@ a[href*="https://bylines.scot"] .status-card__host {
     font-size: 0 !important;
     height: 25px;
 }
+a[href*="https://sussexbylines.co.uk"] .status-card__content,
+a[href*="https://westenglandbylines.co.uk"] .status-card__content,
 a[href*="https://bylinesnetwork.co.uk"] .status-card__content,
 a[href*="https://kentbylines.co.uk"] .status-card__content,
 a[href*="https://centralbylines.co.uk"] .status-card__content,
