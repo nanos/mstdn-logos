@@ -83,6 +83,73 @@ a.status-card.compact .status-card__description {
     height: 13px;
 }
 
+a[href*="https://bylinesnetwork.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/MqCz98y.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 33px;
+}
+a[href*="https://kentbylines.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/g5vaISq.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 30px;
+}
+a[href*="https://centralbylines.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/sCEXu3Y.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 40px;
+}
+a[href*="https://eastangliabylines.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/3Vh0Kh9.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 40px;
+}
+a[href*="https://northeastbylines.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/iebJbNi.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 20px;
+}
+a[href*="https://yorkshirebylines.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/OPutunb.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 25px;
+}
+a[href*="https://northwestbylines.co.uk"] .status-card__host {
+    background-image: url(https://i.imgur.com/m3A4zU8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 25px;
+}
+a[href*="https://bylines.scot"] .status-card__host {
+    background-image: url(https://i.imgur.com/RwhtmTq.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 25px;
+}
+a[href*="https://bylinesnetwork.co.uk"] .status-card__content,
+a[href*="https://kentbylines.co.uk"] .status-card__content,
+a[href*="https://centralbylines.co.uk"] .status-card__content,
+a[href*="https://eastangliabylines.co.uk"] .status-card__content,
+a[href*="https://northeastbylines.co.uk"] .status-card__content,
+a[href*="https://yorkshirebylines.co.uk"] .status-card__content,
+a[href*="https://northwestbylines.co.uk"] .status-card__content,
+a[href*="https://bylines.scot"] .status-card__content {
+    background: linear-gradient(0deg, rgba(60,96,105, 0.4) 0%, rgba(253, 187, 45, 0) 100%);
+}
+
 a[href*="https://www.bbc.com"] .status-card__host {
     background-image: url(https://innosflew.github.io/Logos/bbc.svg);
     background-repeat: no-repeat;
