@@ -87,7 +87,7 @@ code {
 }
 /* custom logos for articles */ 
 .status-card__content:has(a.status-card__title[href*="https://www.youtube.com"]) .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/youtube.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/youtube.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -95,14 +95,14 @@ code {
 }
 
 a[href*="https://sussexbylines.co.uk"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/SussexBylines.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/SussexBylines.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
     height: 33px;
 }
 a[href*="https://westenglandbylines.co.uk"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/WestEnglandBylines.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/WestEnglandBylines.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -178,7 +178,7 @@ a[href*="https://bylines.scot"] .status-card__content {
 }
 
 a[href*="https://www.bbc.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/bbc.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/bbc.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -190,7 +190,7 @@ a[href*="https://www.bbc.com"] .status-card__content {
 }
 
 a[href*="https://www.nytimes.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/newyorktimes.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/newyorktimes.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -202,7 +202,7 @@ a[href*="https://www.nytimes.com"] .status-card__content {
 }
 
 a[href*="https://www.independent.co.uk"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/the-independent.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/the-independent.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -215,7 +215,7 @@ a[href*="https://www.independent.co.uk"] .status-card__content {
 
 a[href*="https://www.bnnbloomberg.ca"] .status-card__host,
 a[href*="https://www.bloomberg.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/Bloomberg.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/Bloomberg.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -228,7 +228,7 @@ a[href*="https://www.bloomberg.com"] .status-card__content {
 }
 
 a[href*="https://www.barrons.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/barrons.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/barrons.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -240,7 +240,7 @@ a[href*="https://www.barrons.com"] .status-card__content {
 }
 
 a[href*="https://www.nbcnews.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/nbc-news.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/nbc-news.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -252,7 +252,7 @@ a[href*="https://www.nbcnews.com"] .status-card__content {
 }
 
 a[href*="https://www.politico"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/POLITICO.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/POLITICO.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -264,7 +264,7 @@ a[href*="https://www.politico"] .status-card__content {
 }
 
 a[href*="https://www.theguardian.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/theguardian.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/theguardian.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -276,7 +276,7 @@ a[href*="https://www.theguardian.com"] .status-card__content {
 }
 
 a[href*="https://www.washingtonpost.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/washingtonpost.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/washingtonpost.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -288,7 +288,7 @@ a[href*="https://www.washingtonpost.com"] .status-card__content {
 }
 
 a[href*="https://www.wsj.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/WSJ.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/WSJ.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -300,7 +300,7 @@ a[href*="https://www.wsj.com"] .status-card__content {
 }
 
 a[href*="https://telex.hu"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/telex.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/telex.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -312,7 +312,7 @@ a[href*="https://telex.hu"] .status-card__content {
 }
 
 a[href*="https://www.euronews.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/euronews.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/euronews.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -324,7 +324,7 @@ a[href*="https://www.euronews.com"] .status-card__content {
 }
 
 a[href*="https://www.thelocal.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/thelocal.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/thelocal.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -336,7 +336,7 @@ a[href*="https://www.thelocal.com"] .status-card__content {
 }
 
 a[href*="https://www.forbes.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/forbes.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/forbes.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -361,7 +361,7 @@ a[href*="https://www.defensenews.com"] .status-card__content {
 }
 
 a[href*="https://www.reuters.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/Reuters-Logo.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/Reuters-Logo.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -385,7 +385,7 @@ a[href*="https://www.euractiv.com"] .status-card__content {
 }
 
 a[href*="https://foreignpolicy.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/foreignpolicy.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/foreignpolicy.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -425,7 +425,7 @@ a[href*="https://www.france24.com"] .status-card__content {
 }
 
 a[href*="https://www.dw.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/dw-news.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/dw-news.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
@@ -445,7 +445,7 @@ a[href*="https://www.dw.com"] .status-card__host::after {
 }
 
 a[href*="https://apnews.com"] .status-card__host {
-    background-image: url(https://innosflew.github.io/Logos/apnews.svg);
+    background-image: url(https://nanos.github.io/mstdn-logos/Logos/apnews.svg);
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 0 !important;
