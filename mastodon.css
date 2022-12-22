@@ -166,6 +166,16 @@ a[href*="https://bylines.scot"] .status-card__content {
     background: linear-gradient(0deg, rgba(60,96,105, 0.4) 0%, rgba(253, 187, 45, 0) 100%);
 }
 
+
+a[href*="https://github.com"] .status-card__host {
+    background-image: url(https://innosflew.github.io/Logos/github.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0 !important;
+    height: 16px;
+}
+
+
 a[href*="https://www.bbc.com"] .status-card__host {
     background-image: url(https://innosflew.github.io/Logos/bbc.svg);
     background-repeat: no-repeat;
